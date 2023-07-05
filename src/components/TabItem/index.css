@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.tab-items {
+  margin: 10px;
+  padding-bottom: 10px;
+}
+.tab-button {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'roboto';
+  color: #7b8794;
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #dfe2e5;
+  cursor: pointer;
+}
+.apply {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 8px;
+}
